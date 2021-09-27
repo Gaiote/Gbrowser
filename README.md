@@ -1,5 +1,5 @@
-# Gbrowser
-Um Navegador leve feito em python com suporte a abas
+# <h1>Gbrowser</h1>
+<h2>Um Navegador leve feito em python com suporte a abas</h2>
 
 <img src="https://raw.githubusercontent.com/Gaiote/Gbrowser/main/Gbrowser-icon.ico">
 
