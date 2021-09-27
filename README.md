@@ -5,5 +5,5 @@
 
 <h3>Somente Disponível para Windows</h3>
 
-
-<a href="https://gbrowser.netlify.app/"><h4>Dowload</h4></a>
+<h4>Dowload</h4>
+https://gbrowser.netlify.app/
