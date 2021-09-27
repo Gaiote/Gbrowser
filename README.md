@@ -5,5 +5,5 @@ Um Navegador leve feito em python com suporte a abas
 
 <h3>Somente Disponível para Windows</h3>
 
-<h4>Dowload</h4>
-<a href="https://gbrowser.netlify.app/"></a>
+
+<a href="https://gbrowser.netlify.app/"><h4>Dowload</h4></a>
